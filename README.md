@@ -37,8 +37,11 @@ Atliq Technologies' Sales team wanted a comprehensive understanding of their sal
 
 ## **How to Use the Dashboard**
 -**Install Power BI Desktop**: Download it [here](https://www.microsoft.com/en-us/download/details.aspx?id=58494).
+
 -**Get the Project Files**: Clone this repository using Git or download it as a ZIP file.
+
 -**Open the Power BI File**: Launch Power BI Desktop and open the .pbix file included in the project.
+
 -**Explore the Insights**: Interact with the dashboard to view revenue trends, top-performing products, and regional breakdowns.
 
 ## **Project Impact & Insights**
